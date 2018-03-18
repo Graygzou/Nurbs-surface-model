@@ -9,7 +9,7 @@ All scripts are written in Matlab and comments are in french.
 
 ## Splines uniformes en produit tensoriel
 
-The source code of this part is located in the folder `Splines` to get the tensor-product surfaces. We used the subdivision algorithm on closed B-Spline curves. Tensor-product surfaces has the torus topology, which is presented in the following example.
+The source code of this part is located in the `Splines` folder. Basically, It creates tensor-product surfaces. We used the subdivision algorithm on closed B-Spline curves. Tensor-product surfaces has the torus topology, which is presented in the following example.
 
 ### Results
 
@@ -17,7 +17,7 @@ The source code of this part is located in the folder `Splines` to get the tenso
 
 ## NURBS
 
-The source code of this part is located in the folder `Nurbs curves` to draw curves and `Nurbs surfaces` to get the following 3D results.
+The source code of this part is located in the `Nurbs curves` folder which allows to draw curves. The `Nurbs surfaces` folder can generate the following 3D results.
 
 ### Results
 
